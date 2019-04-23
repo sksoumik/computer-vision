@@ -6,3 +6,4 @@
 - [CNN on MNIST using Keras](https://github.com/sksoumik/computer-vision/blob/master/digit_recognization/CNN_MNIST.ipynb)
 - [Basics of Tensorflow - ANN on Fashion MNIST ](https://github.com/sksoumik/computer-vision/blob/master/fashion_mnist/Fashion_MNIST.ipynb)
 - [NumPy Tutorial - NumPy facts](https://github.com/sksoumik/computer-vision/tree/master/numpy_facts)
+- [Autoencoder - TensorFlow](https://github.com/sksoumik/computer-vision/blob/master/encoder_decoder.ipynb)
