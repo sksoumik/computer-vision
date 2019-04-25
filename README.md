@@ -1,4 +1,4 @@
-### computer vision / deep learning 
+### Computer Vision & Deep Learning 
 ---
 
 - [Pytorch basics](https://github.com/sksoumik/computer-vision/tree/master/pytorch)
