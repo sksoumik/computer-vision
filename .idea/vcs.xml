@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/coco" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/digit_recognization/Neural-Networks-in-Keras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mlflow" vcs="Git" />
   </component>
 </project>
